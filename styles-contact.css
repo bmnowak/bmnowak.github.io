@@ -77,6 +77,8 @@ html, body {
 #logo {
     margin-bottom: 16px;
 	text-align: center;
+	width: 400px;
+	height: 400px;
 }
 
 h1 {
